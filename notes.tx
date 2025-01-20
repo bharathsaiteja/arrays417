@@ -1,0 +1,23 @@
+Arrays:-
+it is a non-primitive data type.
+
+what is the difference between map and forEach method.
+map():-
+it is used to iterate the values.
+it returns new copied array from the original array
+
+forEach():-
+it returns "undefined".
+
+create array of objects
+***********************
+
+what is object?
+--> object is an entity which contains states and behaviors.
+-states - properties , behaviour - functionality.
+
+syntax :- 
+
+note:- Javascript is mainly object -based language till 2015 (es6)
+- after es6 feature they added oops concept.
+
